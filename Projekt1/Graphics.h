@@ -13,7 +13,7 @@ class Graphics{
 	IDWriteFactory* writefactory;
 	IDWriteTextFormat* tf;
 public:
-	Graphics();
+	Graphics(); 
 	~Graphics();
 
 	bool Init(HWND windowHandle);

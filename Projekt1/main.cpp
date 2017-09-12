@@ -24,7 +24,7 @@ WCHAR* text = L"Simulation des Sonnensystems\n\nUmlaufzeit\tGeschwindigkeit\t\tD
 
 double s = 0.0025;
 double sr = 1.0;
-double sg = 0.6;
+double sg = 0.6; 
 int z = 0;
 bool te;
 

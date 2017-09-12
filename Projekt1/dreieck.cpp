@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 #include <math.h>
-
+ 
 using namespace std;
 
 const long double PI = 3.141592653589793238463;

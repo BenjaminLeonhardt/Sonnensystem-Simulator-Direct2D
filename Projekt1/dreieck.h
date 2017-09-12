@@ -6,7 +6,7 @@ public:
 	long double hypotenuse, ankatete, gegenkatete, alpha, beta, gamma; //gegenkatete = a; ankatete = b; hypotenuse = c;
 	dreieck();
 	~dreieck();
-	char* toString();
+	char* toString(); 
 	bool reset();
 	bool ankateteMitWinkelBerechnen();
 	bool ankateteMitWinkelohneHypBerechnen();

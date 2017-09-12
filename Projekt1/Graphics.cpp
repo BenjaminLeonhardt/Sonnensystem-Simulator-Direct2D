@@ -93,7 +93,7 @@ void Graphics::DrawTextS(float x, float y, WCHAR *string) {
 	rect->bottom=y+20;
 	rect->top=y+36;
 	rect->left=x-700;
-	rect->right=x+700;
+	rect->right=x+700; 
 
 	renderTarget->DrawTextA(string, wcslen(string), tf, rect, brush, D2D1_DRAW_TEXT_OPTIONS_NONE, DWRITE_MEASURING_MODE_NATURAL);
 	delete rect;
