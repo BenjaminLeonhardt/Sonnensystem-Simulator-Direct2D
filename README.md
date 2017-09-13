@@ -6,4 +6,4 @@ Es werden die Umlaufbahnen der Planeten unseres Sonnensystem mit Trigonometrie s
 
 Benötigt wird zum kompilieren das WinSDK. Es muss die verwendete Version anschließend im Projekt eingestellt werden.
 
-![Vorschau](./Bilder/Unbennant.PNG "Vorschau") 
+![Vorschau](./Unbennant.PNG "Vorschau") 
