@@ -7,4 +7,4 @@ Hier ein passender Link dazu: https://en.wikipedia.org/wiki/Orbital_mechanics
 
 Erstellt wurde diese Projekt mit Visual Studio 2015. Ich habe es nur unter Windows 10 getestet. Benötigt wird zum kompilieren das WinSDK. Es muss die verwendete Version anschließend im Projekt eingestellt werden.
  
-![Vorschau](./Unbenannt.PNG "Vorschau") 
+![Vorschau](./Unbenannt.PNG "Vorschau")  
